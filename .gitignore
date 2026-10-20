@@ -14,3 +14,11 @@ uv.lock
 
 # Pycharm files
 .idea
+
+# datasets
+datasets/example/images/
+datasets/example/labels/
+
+# checkpoints and logs
+ckpts/
+logs/
