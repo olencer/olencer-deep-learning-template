@@ -11,6 +11,7 @@ wheels/
 
 # uv files
 uv.lock
+.python-version
 
 # Pycharm files
 .idea
